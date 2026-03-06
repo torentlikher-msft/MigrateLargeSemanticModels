@@ -13,3 +13,9 @@ Disclaimer
    - Ensure you have appropriate administrator permissions and organizational approval.
    - Back up any critical semantic models and workspace configurations.
    - Consider hard-coding a single workspace id for testing purposes.
+
+  The author(s) and Microsoft are not responsible for any data loss, service disruption, or unintended
+  changes resulting from the use of this code. Use at your own risk.
+
+  This project does not represent the views or recommendations of Microsoft. It is a community
+  contribution shared for educational and utility purposes.
